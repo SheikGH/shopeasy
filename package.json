@@ -1,0 +1,15 @@
+{
+  "name": "shopeasy",
+  "version": "1.0.0",
+  "description": "Ecommerial App - NodeJS,ExpressJS with DevOps",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.21.2"
+  }
+}
