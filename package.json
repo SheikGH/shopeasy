@@ -4,6 +4,8 @@
   "description": "Ecommerial App - NodeJS,ExpressJS with DevOps",
   "main": "app.js",
   "scripts": {
+    "start": "node app.js",
+    "build": "tsc",
     "test": "jest"
   },
   "keywords": [],
